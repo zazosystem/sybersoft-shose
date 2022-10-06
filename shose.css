@@ -1,0 +1,8 @@
+body{background-color: #f2f2f2;}
+.clear{clear: both;}
+.container{margin: 30px auto;width: 390px;background-color: #fff;border-radius: 5px;padding: 20px;}
+.content{display: flex;flex-direction: row;flex-wrap: wrap;}
+.item{width: 170px;height: 230px;border: 1px solid #ddd;border-radius: 5px;margin: 10px;}
+.image{text-align: center;padding: 10px;height: 100px;overflow-y: hidden;}
+.image img{max-height: 120px;max-width: 100%;}
+.name,.price{padding-left: 15px;}
